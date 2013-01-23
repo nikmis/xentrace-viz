@@ -16,6 +16,6 @@ USABLITY TRVIA
 CAUTION !!
 =================
 * This code was written during a marathon while I was also learning Processing programming language.
-* Code style, design and readibility were all sacrificed in hopes of demoing the design and UI.
+* Code style, design and readibility were all sacrificed in hopes of demoing the design and UI asap.
 
 Please get in touch if you have problem running or using the tool at nik.mys at gmail
