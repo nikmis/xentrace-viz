@@ -2,7 +2,7 @@ Prototype design tool to visualize event based logs. Designed for xentrace logs.
 
 Xentrace: http://support.citrix.com/article/CTX121583
 
-![ss](https://github.com/nikmis/xentrace-viz/blob/master/Screen%20Shots/Line-Chart-With-Ruler.png)
+![Screenshot](https://raw.github.com/nikmis/xentrace-viz/master/Screen%20Shots/Line-Chart-With-Ruler.png)
 
 HOW TO RUN
 =================
